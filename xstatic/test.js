@@ -1,1 +1,1 @@
-console.log('test.js loaded! s2');
+console.log('test.js loaded! s3');
